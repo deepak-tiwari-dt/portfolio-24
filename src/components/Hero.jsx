@@ -17,9 +17,9 @@ const Hero = () => {
             Hi, I&apos;m <span className="text-[#915eff]">Deepak</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I create elegant, responsive web apps that
-            <br className="sm:block hidden" />
-            transform designs into dynamic experiences.
+            I create elegant, responsive web apps
+            <br className="sm:block hidden" /> that transform designs into
+            dynamic experiences.
           </p>
         </div>
       </div>
